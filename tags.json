@@ -1,0 +1,402 @@
+[
+    {
+        "tag_id": 1,
+        "tag_name": "#thiênnhiên"
+    },
+    {
+        "tag_id": 2,
+        "tag_name": "#du lịch"
+    },
+    {
+        "tag_id": 3,
+        "tag_name": "#nghệ thuật"
+    },
+    {
+        "tag_id": 4,
+        "tag_name": "#ẩm thực"
+    },
+    {
+        "tag_id": 5,
+        "tag_name": "#Âm nhạc"
+    },
+    {
+        "tag_id": 6,
+        "tag_name": "#thể thao"
+    },
+    {
+        "tag_id": 7,
+        "tag_name": "#thời trang"
+    },
+    {
+        "tag_id": 8,
+        "tag_name": "#đẹp"
+    },
+    {
+        "tag_id": 9,
+        "tag_name": "#hạnh phúc"
+    },
+    {
+        "tag_id": 10,
+        "tag_name": "#trang trí"
+    },
+    {
+        "tag_id": 11,
+        "tag_name": "#phong cách"
+    },
+    {
+        "tag_id": 12,
+        "tag_name": "#hè"
+    },
+    {
+        "tag_id": 13,
+        "tag_name": "#tình yêu"
+    },
+    {
+        "tag_id": 14,
+        "tag_name": "#thư giãn"
+    },
+    {
+        "tag_id": 15,
+        "tag_name": "#khám phá"
+    },
+    {
+        "tag_id": 16,
+        "tag_name": "#mùa hè"
+    },
+    {
+        "tag_id": 17,
+        "tag_name": "#vui vẻ"
+    },
+    {
+        "tag_id": 18,
+        "tag_name": "#bức ảnh"
+    },
+    {
+        "tag_id": 19,
+        "tag_name": "#sức khỏe"
+    },
+    {
+        "tag_id": 20,
+        "tag_name": "#thực phẩm"
+    },
+    {
+        "tag_id": 21,
+        "tag_name": "#du lịch mạo hiểm"
+    },
+    {
+        "tag_id": 22,
+        "tag_name": "#hành trình"
+    },
+    {
+        "tag_id": 23,
+        "tag_name": "#cảnh đẹp"
+    },
+    {
+        "tag_id": 24,
+        "tag_name": "#văn hóa"
+    },
+    {
+        "tag_id": 25,
+        "tag_name": "#đồ ăn ngon"
+    },
+    {
+        "tag_id": 26,
+        "tag_name": "#hương vị"
+    },
+    {
+        "tag_id": 27,
+        "tag_name": "#nắng"
+    },
+    {
+        "tag_id": 28,
+        "tag_name": "#động vật"
+    },
+    {
+        "tag_id": 29,
+        "tag_name": "#ngày mới"
+    },
+    {
+        "tag_id": 30,
+        "tag_name": "#cảm xúc"
+    },
+    {
+        "tag_id": 31,
+        "tag_name": "#sống đẹp"
+    },
+    {
+        "tag_id": 32,
+        "tag_name": "#tâm trạng"
+    },
+    {
+        "tag_id": 33,
+        "tag_name": "#gió"
+    },
+    {
+        "tag_id": 34,
+        "tag_name": "#hoạt động"
+    },
+    {
+        "tag_id": 35,
+        "tag_name": "#kỳ nghỉ"
+    },
+    {
+        "tag_id": 36,
+        "tag_name": "#tự do"
+    },
+    {
+        "tag_id": 37,
+        "tag_name": "#thú vị"
+    },
+    {
+        "tag_id": 38,
+        "tag_name": "#màu sắc"
+    },
+    {
+        "tag_id": 39,
+        "tag_name": "#hạnh phúc"
+    },
+    {
+        "tag_id": 40,
+        "tag_name": "#lối sống"
+    },
+    {
+        "tag_id": 41,
+        "tag_name": "#đẹp mắt"
+    },
+    {
+        "tag_id": 42,
+        "tag_name": "#sự sống"
+    },
+    {
+        "tag_id": 43,
+        "tag_name": "#đồ uống"
+    },
+    {
+        "tag_id": 44,
+        "tag_name": "#bạn bè"
+    },
+    {
+        "tag_id": 45,
+        "tag_name": "#đồng cảm"
+    },
+    {
+        "tag_id": 46,
+        "tag_name": "#hôn nhân"
+    },
+    {
+        "tag_id": 47,
+        "tag_name": "#tình bạn"
+    },
+    {
+        "tag_id": 48,
+        "tag_name": "#môi trường"
+    },
+    {
+        "tag_id": 49,
+        "tag_name": "#trò chơi"
+    },
+    {
+        "tag_id": 50,
+        "tag_name": "#điều hòa"
+    },
+    {
+        "tag_id": 51,
+        "tag_name": "#điểm đến"
+    },
+    {
+        "tag_id": 52,
+        "tag_name": "#mê hoặc"
+    },
+    {
+        "tag_id": 53,
+        "tag_name": "#chúc mừng"
+    },
+    {
+        "tag_id": 54,
+        "tag_name": "#trò chuyện"
+    },
+    {
+        "tag_id": 55,
+        "tag_name": "#giải trí"
+    },
+    {
+        "tag_id": 56,
+        "tag_name": "#đại dương"
+    },
+    {
+        "tag_id": 57,
+        "tag_name": "#thảo luận"
+    },
+    {
+        "tag_id": 58,
+        "tag_name": "#kỳ diệu"
+    },
+    {
+        "tag_id": 59,
+        "tag_name": "#đồ chơi"
+    },
+    {
+        "tag_id": 60,
+        "tag_name": "#thiếu nhi"
+    },
+    {
+        "tag_id": 61,
+        "tag_name": "#sách"
+    },
+    {
+        "tag_id": 62,
+        "tag_name": "#thiền"
+    },
+    {
+        "tag_id": 63,
+        "tag_name": "#kỹ năng"
+    },
+    {
+        "tag_id": 64,
+        "tag_name": "#chụp ảnh"
+    },
+    {
+        "tag_id": 65,
+        "tag_name": "#tưởng tượng"
+    },
+    {
+        "tag_id": 66,
+        "tag_name": "#hướng dẫn"
+    },
+    {
+        "tag_id": 67,
+        "tag_name": "#sáng tạo"
+    },
+    {
+        "tag_id": 68,
+        "tag_name": "#niềm vui"
+    },
+    {
+        "tag_id": 69,
+        "tag_name": "#trí tuệ"
+    },
+    {
+        "tag_id": 70,
+        "tag_name": "#nhà đẹp"
+    },
+    {
+        "tag_id": 71,
+        "tag_name": "#tuyệt vời"
+    },
+    {
+        "tag_id": 72,
+        "tag_name": "#vườn hoa"
+    },
+    {
+        "tag_id": 73,
+        "tag_name": "#kỳ quan"
+    },
+    {
+        "tag_id": 74,
+        "tag_name": "#lãng mạn"
+    },
+    {
+        "tag_id": 75,
+        "tag_name": "#đào tạo"
+    },
+    {
+        "tag_id": 76,
+        "tag_name": "#phát triển"
+    },
+    {
+        "tag_id": 77,
+        "tag_name": "#sống"
+    },
+    {
+        "tag_id": 78,
+        "tag_name": "#đô thị"
+    },
+    {
+        "tag_id": 79,
+        "tag_name": "#lịch sử"
+    },
+    {
+        "tag_id": 80,
+        "tag_name": "#di sản"
+    },
+    {
+        "tag_id": 81,
+        "tag_name": "#văn hóa"
+    },
+    {
+        "tag_id": 82,
+        "tag_name": "#tôn giáo"
+    },
+    {
+        "tag_id": 83,
+        "tag_name": "#tình thần"
+    },
+    {
+        "tag_id": 84,
+        "tag_name": "#thiền"
+    },
+    {
+        "tag_id": 85,
+        "tag_name": "#yoga"
+    },
+    {
+        "tag_id": 86,
+        "tag_name": "#tâm linh"
+    },
+    {
+        "tag_id": 87,
+        "tag_name": "#tập trung"
+    },
+    {
+        "tag_id": 88,
+        "tag_name": "#bí mật"
+    },
+    {
+        "tag_id": 89,
+        "tag_name": "#đổi mới"
+    },
+    {
+        "tag_id": 90,
+        "tag_name": "#làm việc"
+    },
+    {
+        "tag_id": 91,
+        "tag_name": "#sự nghiệp"
+    },
+    {
+        "tag_id": 92,
+        "tag_name": "#kỹ năng"
+    },
+    {
+        "tag_id": 93,
+        "tag_name": "#trí tuệ"
+    },
+    {
+        "tag_id": 94,
+        "tag_name": "#khám phá"
+    },
+    {
+        "tag_id": 95,
+        "tag_name": "#tài nguyên"
+    },
+    {
+        "tag_id": 96,
+        "tag_name": "#kỷ luật"
+    },
+    {
+        "tag_id": 97,
+        "tag_name": "#lập kế hoạch"
+    },
+    {
+        "tag_id": 98,
+        "tag_name": "#tự tin"
+    },
+    {
+        "tag_id": 99,
+        "tag_name": "#phấn khích"
+    },
+    {
+        "tag_id": 100,
+        "tag_name": "#thành công"
+    }
+]

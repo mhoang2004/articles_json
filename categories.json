@@ -1,0 +1,402 @@
+[
+    {
+        "category_id": 1,
+        "category_name": "Du lịch"
+    },
+    {
+        "category_id": 2,
+        "category_name": "Ẩm thực"
+    },
+    {
+        "category_id": 3,
+        "category_name": "Thể thao"
+    },
+    {
+        "category_id": 4,
+        "category_name": "Thời trang"
+    },
+    {
+        "category_id": 5,
+        "category_name": "Mẹ và bé"
+    },
+    {
+        "category_id": 6,
+        "category_name": "Ô tô và xe máy"
+    },
+    {
+        "category_id": 7,
+        "category_name": "Công nghệ"
+    },
+    {
+        "category_id": 8,
+        "category_name": "Văn hóa"
+    },
+    {
+        "category_id": 9,
+        "category_name": "Nghệ thuật"
+    },
+    {
+        "category_id": 10,
+        "category_name": "Môi trường"
+    },
+    {
+        "category_id": 11,
+        "category_name": "Gia đình"
+    },
+    {
+        "category_id": 12,
+        "category_name": "Sức khỏe"
+    },
+    {
+        "category_id": 13,
+        "category_name": "Giáo dục"
+    },
+    {
+        "category_id": 14,
+        "category_name": "Kinh doanh"
+    },
+    {
+        "category_id": 15,
+        "category_name": "Pháp luật"
+    },
+    {
+        "category_id": 16,
+        "category_name": "Khoa học"
+    },
+    {
+        "category_id": 17,
+        "category_name": "Tình yêu và hôn nhân"
+    },
+    {
+        "category_id": 18,
+        "category_name": "Phong cách sống"
+    },
+    {
+        "category_id": 19,
+        "category_name": "Âm nhạc"
+    },
+    {
+        "category_id": 20,
+        "category_name": "Điện ảnh"
+    },
+    {
+        "category_id": 21,
+        "category_name": "Thương mại điện tử"
+    },
+    {
+        "category_id": 22,
+        "category_name": "Xây dựng"
+    },
+    {
+        "category_id": 23,
+        "category_name": "Nông nghiệp"
+    },
+    {
+        "category_id": 24,
+        "category_name": "Thương mại"
+    },
+    {
+        "category_id": 25,
+        "category_name": "Bất động sản"
+    },
+    {
+        "category_id": 26,
+        "category_name": "Tài chính"
+    },
+    {
+        "category_id": 27,
+        "category_name": "Dịch vụ"
+    },
+    {
+        "category_id": 28,
+        "category_name": "Công nghệ thông tin"
+    },
+    {
+        "category_id": 29,
+        "category_name": "Địa lý"
+    },
+    {
+        "category_id": 30,
+        "category_name": "Điện tử"
+    },
+    {
+        "category_id": 31,
+        "category_name": "Truyền thông"
+    },
+    {
+        "category_id": 32,
+        "category_name": "Công nghệ mới"
+    },
+    {
+        "category_id": 33,
+        "category_name": "Kỹ năng sống"
+    },
+    {
+        "category_id": 34,
+        "category_name": "Xã hội"
+    },
+    {
+        "category_id": 35,
+        "category_name": "Y tế"
+    },
+    {
+        "category_id": 36,
+        "category_name": "Thức ăn và đồ uống"
+    },
+    {
+        "category_id": 37,
+        "category_name": "Thủ công mỹ nghệ"
+    },
+    {
+        "category_id": 38,
+        "category_name": "Thể dục thể thao"
+    },
+    {
+        "category_id": 39,
+        "category_name": "Văn hóa và du lịch"
+    },
+    {
+        "category_id": 40,
+        "category_name": "Học tập"
+    },
+    {
+        "category_id": 41,
+        "category_name": "Giao thông"
+    },
+    {
+        "category_id": 42,
+        "category_name": "Viễn thông"
+    },
+    {
+        "category_id": 43,
+        "category_name": "Trẻ em"
+    },
+    {
+        "category_id": 44,
+        "category_name": "Hình ảnh"
+    },
+    {
+        "category_id": 45,
+        "category_name": "Công việc"
+    },
+    {
+        "category_id": 46,
+        "category_name": "Sách báo"
+    },
+    {
+        "category_id": 47,
+        "category_name": "Môi trường và đô thị"
+    },
+    {
+        "category_id": 48,
+        "category_name": "An ninh"
+    },
+    {
+        "category_id": 49,
+        "category_name": "Gia đình và công việc"
+    },
+    {
+        "category_id": 50,
+        "category_name": "Thời trang và làm đẹp"
+    },
+    {
+        "category_id": 51,
+        "category_name": "Hôn nhân và gia đình"
+    },
+    {
+        "category_id": 52,
+        "category_name": "Tình bạn và tình yêu"
+    },
+    {
+        "category_id": 53,
+        "category_name": "Âm nhạc và nghệ thuật"
+    },
+    {
+        "category_id": 54,
+        "category_name": "Phong cách sống và sức khỏe"
+    },
+    {
+        "category_id": 55,
+        "category_name": "Xã hội và văn hóa"
+    },
+    {
+        "category_id": 56,
+        "category_name": "Du lịch và ẩm thực"
+    },
+    {
+        "category_id": 57,
+        "category_name": "Kinh doanh và tài chính"
+    },
+    {
+        "category_id": 58,
+        "category_name": "Sức khỏe và làm đẹp"
+    },
+    {
+        "category_id": 59,
+        "category_name": "Giáo dục và học tập"
+    },
+    {
+        "category_id": 60,
+        "category_name": "Thể thao và giải trí"
+    },
+    {
+        "category_id": 61,
+        "category_name": "Công nghệ và internet"
+    },
+    {
+        "category_id": 62,
+        "category_name": "Văn hóa và xã hội"
+    },
+    {
+        "category_id": 63,
+        "category_name": "Khoa học và công nghệ"
+    },
+    {
+        "category_id": 64,
+        "category_name": "Pháp luật và xã hội"
+    },
+    {
+        "category_id": 65,
+        "category_name": "Môi trường và tự nhiên"
+    },
+    {
+        "category_id": 66,
+        "category_name": "Gia đình và con cái"
+    },
+    {
+        "category_id": 67,
+        "category_name": "Thể dục và dinh dưỡng"
+    },
+    {
+        "category_id": 68,
+        "category_name": "Du lịch và phong cách sống"
+    },
+    {
+        "category_id": 69,
+        "category_name": "Thị trường và kinh doanh"
+    },
+    {
+        "category_id": 70,
+        "category_name": "Y học và sức khỏe"
+    },
+    {
+        "category_id": 71,
+        "category_name": "Sản xuất và công nghiệp"
+    },
+    {
+        "category_id": 72,
+        "category_name": "Đời sống và tình yêu"
+    },
+    {
+        "category_id": 73,
+        "category_name": "Tâm lý và tinh thần"
+    },
+    {
+        "category_id": 74,
+        "category_name": "Tình yêu và hạnh phúc"
+    },
+    {
+        "category_id": 75,
+        "category_name": "Thành công và sự nghiệp"
+    },
+    {
+        "category_id": 76,
+        "category_name": "Trí tuệ và sáng tạo"
+    },
+    {
+        "category_id": 77,
+        "category_name": "Tâm linh và tôn giáo"
+    },
+    {
+        "category_id": 78,
+        "category_name": "Xã hội và đời sống"
+    },
+    {
+        "category_id": 79,
+        "category_name": "Sức khỏe và dinh dưỡng"
+    },
+    {
+        "category_id": 80,
+        "category_name": "Mẹ và con cái"
+    },
+    {
+        "category_id": 81,
+        "category_name": "Kinh doanh và tiêu dùng"
+    },
+    {
+        "category_id": 82,
+        "category_name": "Thể thao và giải trí"
+    },
+    {
+        "category_id": 83,
+        "category_name": "Khoa học và công nghệ"
+    },
+    {
+        "category_id": 84,
+        "category_name": "Y tế và sức khỏe"
+    },
+    {
+        "category_id": 85,
+        "category_name": "Xã hội và văn hóa"
+    },
+    {
+        "category_id": 86,
+        "category_name": "Kỹ năng sống và phát triển"
+    },
+    {
+        "category_id": 87,
+        "category_name": "Thực phẩm và đời sống"
+    },
+    {
+        "category_id": 88,
+        "category_name": "Hôn nhân và gia đình"
+    },
+    {
+        "category_id": 89,
+        "category_name": "Tài chính và kinh doanh"
+    },
+    {
+        "category_id": 90,
+        "category_name": "Giáo dục và đào tạo"
+    },
+    {
+        "category_id": 91,
+        "category_name": "Thể thao và sức khỏe"
+    },
+    {
+        "category_id": 92,
+        "category_name": "Văn hóa và truyền thống"
+    },
+    {
+        "category_id": 93,
+        "category_name": "Xã hội và môi trường"
+    },
+    {
+        "category_id": 94,
+        "category_name": "Thế giới và văn hóa"
+    },
+    {
+        "category_id": 95,
+        "category_name": "Khoa học và thiên nhiên"
+    },
+    {
+        "category_id": 96,
+        "category_name": "Y tế và dinh dưỡng"
+    },
+    {
+        "category_id": 97,
+        "category_name": "Kinh tế và phát triển"
+    },
+    {
+        "category_id": 98,
+        "category_name": "Nghệ thuật và văn hóa"
+    },
+    {
+        "category_id": 99,
+        "category_name": "Thế giới và đời sống"
+    },
+    {
+        "category_id": 100,
+        "category_name": "Cuộc sống và con người"
+    }
+]

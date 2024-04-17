@@ -1,0 +1,177 @@
+[
+    {
+        "name": "Thế Anh",
+        "email": "thanh@email.com",
+        "position": "photographer",
+        "author_date_of_birth": "5/12/1985",
+        "hometown": "Hanoi"
+    },
+    {
+        "name": "Thanh Thanh",
+        "email": "thanhthanh@email.com",
+        "position": "writer",
+        "author_date_of_birth": "9/8/1990",
+        "hometown": "Da Nang"
+    },
+    {
+        "name": "Lê Gia Trang",
+        "email": "letotrang@email.com",
+        "position": "reporter",
+        "author_date_of_birth": "3/5/1987",
+        "hometown": "Haiphong"
+    },
+    {
+        "name": "Cao Kỳ Anh",
+        "email": "caokyanh@email.com",
+        "position": "editor",
+        "author_date_of_birth": "12/10/1983",
+        "hometown": "Can Tho"
+    },
+    {
+        "name": "Lê Bảo",
+        "email": "lebao@email.com",
+        "position": "journalist",
+        "author_date_of_birth": "7/4/1988",
+        "hometown": "Bien Hoa"
+    },
+    {
+        "name": "Lê Phan Kim Liên",
+        "email": "lephan@email.com",
+        "position": "photographer",
+        "author_date_of_birth": "11/2/1986",
+        "hometown": "Nha Trang"
+    },
+    {
+        "name": "H. Long",
+        "email": "hlong@email.com",
+        "position": "editor",
+        "author_date_of_birth": "6/9/1992",
+        "hometown": "Vung Tau"
+    },
+    {
+        "name": "Bảo Anh",
+        "email": "baoanh@email.com",
+        "position": "reporter",
+        "author_date_of_birth": "2/1/1989",
+        "hometown": "Hue"
+    },
+    {
+        "name": "Lạc Thành",
+        "email": "lacthanh@email.com",
+        "position": "writer",
+        "author_date_of_birth": "8/3/1995",
+        "hometown": "Quy Nhon"
+    },
+    {
+        "name": "Bảo Trân",
+        "email": "baotran@email.com",
+        "position": "journalist",
+        "author_date_of_birth": "10/7/1994",
+        "hometown": "Buon Ma Thuot"
+    },
+    {
+        "name": "Mẫn Nhi",
+        "email": "mannhi@email.com",
+        "position": "photographer",
+        "author_date_of_birth": "4/11/1991",
+        "hometown": "Rach Gia"
+    },
+    {
+        "name": "Thanh Thành",
+        "email": "thanhthanh2@email.com",
+        "position": "writer",
+        "author_date_of_birth": "9/8/1990",
+        "hometown": "Vinh"
+    },
+    {
+        "name": "Minh Quang",
+        "email": "minhquang@email.com",
+        "position": "reporter",
+        "author_date_of_birth": "5/12/1985",
+        "hometown": "Tam Ky"
+    },
+    {
+        "name": "Kim Anh",
+        "email": "kimanhh@email.com",
+        "position": "editor",
+        "author_date_of_birth": "12/10/1983",
+        "hometown": "Tuy Hoa"
+    },
+    {
+        "name": "Hoàng Hướng",
+        "email": "hoanghuong@email.com",
+        "position": "journalist",
+        "author_date_of_birth": "7/4/1988",
+        "hometown": "Phan Thiet"
+    },
+    {
+        "name": "Bích Phương",
+        "email": "bichphuong@email.com",
+        "position": "photographer",
+        "author_date_of_birth": "11/2/1986",
+        "hometown": "Ben Tre"
+    },
+    {
+        "name": "Phương Liên",
+        "email": "phuonglien@email.com",
+        "position": "writer",
+        "author_date_of_birth": "6/9/1992",
+        "hometown": "Ca Mau"
+    },
+    {
+        "name": "Đức Hoàng",
+        "email": "duchoang@email.com",
+        "position": "reporter",
+        "author_date_of_birth": "2/1/1989",
+        "hometown": "Long Xuyen"
+    },
+    {
+        "name": "Mẫn Nhi",
+        "email": "mannhi2@email.com",
+        "position": "editor",
+        "author_date_of_birth": "8/3/1995",
+        "hometown": "Ha Long"
+    },
+    {
+        "name": "Nhật Linh Đan",
+        "email": "nhatlinhdan@email.com",
+        "position": "journalist",
+        "author_date_of_birth": "10/7/1994",
+        "hometown": "Bac Lieu"
+    },
+    {
+        "name": "Lê Trai",
+        "email": "letrai@email.com",
+        "position": "photographer",
+        "author_date_of_birth": "4/11/1991",
+        "hometown": "Soc Trang"
+    },
+    {
+        "name": "Trường Thịnh",
+        "email": "truongthinh@email.com",
+        "position": "writer",
+        "author_date_of_birth": "8/3/1995",
+        "hometown": "Phu Ly"
+    },
+    {
+        "name": "Hà Mỹ",
+        "email": "hamy@email.com",
+        "position": "reporter",
+        "author_date_of_birth": "12/10/1983",
+        "hometown": "Thai Nguyen"
+    },
+    {
+        "name": "Hạo Minh",
+        "email": "haominh@email.com",
+        "position": "editor",
+        "author_date_of_birth": "7/4/1988",
+        "hometown": "Nha Trang"
+    },
+    {
+        "name": "Hoài Thu",
+        "email": "hoaithu@email.com",
+        "position": "journalist",
+        "author_date_of_birth": "11/2/1986",
+        "hometown": "Vinh Long"
+    }
+]

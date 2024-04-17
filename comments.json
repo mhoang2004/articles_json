@@ -1,0 +1,1353 @@
+[
+    {
+        "comment_id": 1,
+        "article_id": 82,
+        "user_id": 67,
+        "comment_date": "18/02/2023 03:57:00",
+        "comment_text": "\"Bài viết rất thú vị!\","
+    },
+    {
+        "comment_id": 2,
+        "article_id": 13,
+        "user_id": 44,
+        "comment_date": "16/08/2022 16:43:46",
+        "comment_text": "\"Chủ đề này làm tôi cảm thấy hứng thú.\","
+    },
+    {
+        "comment_id": 3,
+        "article_id": 81,
+        "user_id": 37,
+        "comment_date": "14/04/2023 08:45:52",
+        "comment_text": "\"Chúc mừng bạn đã viết được bài hay như vậy!\","
+    },
+    {
+        "comment_id": 4,
+        "article_id": 107,
+        "user_id": 64,
+        "comment_date": "17/11/2023 01:47:58",
+        "comment_text": "\"Tôi đồng ý hoàn toàn với quan điểm của bạn.\","
+    },
+    {
+        "comment_id": 5,
+        "article_id": 131,
+        "user_id": 23,
+        "comment_date": "18/12/2022 23:57:27",
+        "comment_text": "\"Cảm ơn bạn đã chia sẻ kiến thức bổ ích này.\","
+    },
+    {
+        "comment_id": 6,
+        "article_id": 51,
+        "user_id": 55,
+        "comment_date": "15/04/2023 06:40:21",
+        "comment_text": "\"Tôi không tin được rằng có thể tìm thấy thông tin tốt như vậy.\","
+    },
+    {
+        "comment_id": 7,
+        "article_id": 11,
+        "user_id": 22,
+        "comment_date": "25/08/2022 19:36:42",
+        "comment_text": "\"Rất phấn khích khi đọc nội dung này!\","
+    },
+    {
+        "comment_id": 8,
+        "article_id": 62,
+        "user_id": 66,
+        "comment_date": "20/10/2022 02:55:35",
+        "comment_text": "\"Những điều này là những gì tôi đang tìm kiếm.\","
+    },
+    {
+        "comment_id": 9,
+        "article_id": 41,
+        "user_id": 69,
+        "comment_date": "09/01/2022 07:06:36",
+        "comment_text": "\"Tôi đã học được rất nhiều từ bài viết này.\","
+    },
+    {
+        "comment_id": 10,
+        "article_id": 72,
+        "user_id": 10,
+        "comment_date": "23/10/2023 11:01:09",
+        "comment_text": "\"Cảm ơn bạn đã làm cho tôi cảm thấy khá hài lòng.\","
+    },
+    {
+        "comment_id": 11,
+        "article_id": 13,
+        "user_id": 8,
+        "comment_date": "08/09/2022 08:28:59",
+        "comment_text": "\"Nội dung rất thú vị và hữu ích.\","
+    },
+    {
+        "comment_id": 12,
+        "article_id": 71,
+        "user_id": 26,
+        "comment_date": "05/02/2022 00:20:25",
+        "comment_text": "\"Tôi rất thích cách bạn diễn đạt ý kiến.\","
+    },
+    {
+        "comment_id": 13,
+        "article_id": 55,
+        "user_id": 64,
+        "comment_date": "23/06/2023 04:27:00",
+        "comment_text": "\"Rất đáng giá để đọc và chia sẻ.\","
+    },
+    {
+        "comment_id": 14,
+        "article_id": 145,
+        "user_id": 49,
+        "comment_date": "18/03/2023 18:13:10",
+        "comment_text": "\"Bài viết rất cần thiết cho mọi người.\","
+    },
+    {
+        "comment_id": 15,
+        "article_id": 128,
+        "user_id": 18,
+        "comment_date": "07/08/2023 22:29:14",
+        "comment_text": "\"Tôi thích cách bạn giải thích mọi thứ.\","
+    },
+    {
+        "comment_id": 16,
+        "article_id": 84,
+        "user_id": 12,
+        "comment_date": "15/11/2022 10:01:44",
+        "comment_text": "\"Bài viết rất chi tiết và dễ hiểu.\","
+    },
+    {
+        "comment_id": 17,
+        "article_id": 142,
+        "user_id": 42,
+        "comment_date": "18/02/2023 12:25:34",
+        "comment_text": "\"Cảm ơn bạn đã chia sẻ thông tin quý giá này!\","
+    },
+    {
+        "comment_id": 18,
+        "article_id": 7,
+        "user_id": 37,
+        "comment_date": "09/03/2023 12:02:18",
+        "comment_text": "\"Tôi sẽ lưu lại bài viết này để đọc lại sau.\","
+    },
+    {
+        "comment_id": 19,
+        "article_id": 104,
+        "user_id": 56,
+        "comment_date": "07/06/2022 00:50:17",
+        "comment_text": "\"Tuyệt vời! Tôi đã tìm thấy câu trả lời cho câu hỏi của mình.\","
+    },
+    {
+        "comment_id": 20,
+        "article_id": 55,
+        "user_id": 18,
+        "comment_date": "10/04/2024 04:41:37",
+        "comment_text": "\"Nội dung này rất hữu ích cho công việc của tôi.\","
+    },
+    {
+        "comment_id": 21,
+        "article_id": 108,
+        "user_id": 43,
+        "comment_date": "21/05/2022 15:21:32",
+        "comment_text": "\"Tôi đã học được rất nhiều điều mới từ bài viết này.\","
+    },
+    {
+        "comment_id": 22,
+        "article_id": 98,
+        "user_id": 15,
+        "comment_date": "07/03/2024 19:40:43",
+        "comment_text": "\"Nếu có thể, tôi sẽ cho điểm 10/10 cho bài viết này.\","
+    },
+    {
+        "comment_id": 23,
+        "article_id": 103,
+        "user_id": 57,
+        "comment_date": "01/10/2023 19:08:44",
+        "comment_text": "\"Cảm ơn bạn đã đóng góp thông tin quý báu như vậy.\","
+    },
+    {
+        "comment_id": 24,
+        "article_id": 30,
+        "user_id": 25,
+        "comment_date": "12/07/2023 14:49:01",
+        "comment_text": "\"Tôi đã tìm thấy lời giải cho vấn đề của mình ở đây.\","
+    },
+    {
+        "comment_id": 25,
+        "article_id": 34,
+        "user_id": 7,
+        "comment_date": "11/09/2023 06:50:05",
+        "comment_text": "\"Tôi không thể nào tìm thấy từ ngữ để diễn đạt cảm xúc của mình.\","
+    },
+    {
+        "comment_id": 26,
+        "article_id": 41,
+        "user_id": 50,
+        "comment_date": "15/09/2023 22:46:22",
+        "comment_text": "\"Tôi sẽ chia sẻ bài viết này với bạn bè của mình.\","
+    },
+    {
+        "comment_id": 27,
+        "article_id": 118,
+        "user_id": 60,
+        "comment_date": "20/02/2023 00:45:50",
+        "comment_text": "\"Nội dung rất phong phú và đa dạng.\","
+    },
+    {
+        "comment_id": 28,
+        "article_id": 130,
+        "user_id": 13,
+        "comment_date": "16/11/2023 20:00:03",
+        "comment_text": "\"Tôi rất ấn tượng với cách bạn nắm bắt vấn đề.\","
+    },
+    {
+        "comment_id": 29,
+        "article_id": 119,
+        "user_id": 8,
+        "comment_date": "08/02/2024 03:53:36",
+        "comment_text": "\"Bài viết rất tuyệt vời! Cảm ơn bạn.\","
+    },
+    {
+        "comment_id": 30,
+        "article_id": 92,
+        "user_id": 51,
+        "comment_date": "04/06/2023 21:19:23",
+        "comment_text": "\"Nội dung này thực sự đáng để đọc và thảo luận.\","
+    },
+    {
+        "comment_id": 31,
+        "article_id": 137,
+        "user_id": 40,
+        "comment_date": "29/01/2023 12:20:24",
+        "comment_text": "\"Tôi muốn đề xuất bài viết này cho mọi người.\","
+    },
+    {
+        "comment_id": 32,
+        "article_id": 73,
+        "user_id": 6,
+        "comment_date": "09/09/2023 22:12:36",
+        "comment_text": "\"Cảm ơn bạn đã chia sẻ những suy nghĩ sâu sắc của mình.\","
+    },
+    {
+        "comment_id": 33,
+        "article_id": 112,
+        "user_id": 59,
+        "comment_date": "06/04/2023 01:51:32",
+        "comment_text": "\"Tôi không thể không nhấn mạnh về sự quan trọng của bài viết này.\","
+    },
+    {
+        "comment_id": 34,
+        "article_id": 134,
+        "user_id": 57,
+        "comment_date": "17/05/2022 10:26:48",
+        "comment_text": "\"Tôi đã tìm thấy câu trả lời cho câu hỏi của mình ở đây.\","
+    },
+    {
+        "comment_id": 35,
+        "article_id": 19,
+        "user_id": 70,
+        "comment_date": "03/10/2023 14:33:05",
+        "comment_text": "\"Nội dung này đã thay đổi cách tôi nghĩ về vấn đề.\","
+    },
+    {
+        "comment_id": 36,
+        "article_id": 112,
+        "user_id": 56,
+        "comment_date": "22/04/2023 22:55:31",
+        "comment_text": "\"Rất hài lòng với chất lượng của bài viết.\","
+    },
+    {
+        "comment_id": 37,
+        "article_id": 82,
+        "user_id": 24,
+        "comment_date": "06/02/2023 14:27:00",
+        "comment_text": "\"Tôi muốn biết thêm về chủ đề này sau khi đọc bài viết của bạn.\","
+    },
+    {
+        "comment_id": 38,
+        "article_id": 97,
+        "user_id": 31,
+        "comment_date": "20/11/2023 11:25:46",
+        "comment_text": "\"Bài viết này là nguồn cảm hứng lớn cho tôi.\","
+    },
+    {
+        "comment_id": 39,
+        "article_id": 47,
+        "user_id": 65,
+        "comment_date": "16/12/2022 09:07:58",
+        "comment_text": "\"Tôi đã nhận được nhiều lợi ích từ việc đọc bài viết này.\","
+    },
+    {
+        "comment_id": 40,
+        "article_id": 117,
+        "user_id": 19,
+        "comment_date": "03/07/2023 01:30:37",
+        "comment_text": "\"Nội dung này giúp tôi hiểu rõ hơn về chủ đề.\","
+    },
+    {
+        "comment_id": 41,
+        "article_id": 115,
+        "user_id": 39,
+        "comment_date": "12/03/2024 16:47:16",
+        "comment_text": "\"Tôi rất đánh giá cao nỗ lực của bạn trong việc viết bài.\","
+    },
+    {
+        "comment_id": 42,
+        "article_id": 73,
+        "user_id": 68,
+        "comment_date": "20/10/2023 11:45:41",
+        "comment_text": "\"Bài viết này đã mở ra một cái nhìn mới cho tôi.\","
+    },
+    {
+        "comment_id": 43,
+        "article_id": 97,
+        "user_id": 37,
+        "comment_date": "14/01/2023 07:14:22",
+        "comment_text": "\"Tôi tin rằng mọi người sẽ rất hữu ích khi đọc bài viết này.\","
+    },
+    {
+        "comment_id": 44,
+        "article_id": 4,
+        "user_id": 18,
+        "comment_date": "13/11/2022 18:06:16",
+        "comment_text": "\"Nội dung rất thú vị và bổ ích.\","
+    },
+    {
+        "comment_id": 45,
+        "article_id": 43,
+        "user_id": 28,
+        "comment_date": "08/09/2023 19:45:47",
+        "comment_text": "\"Tôi muốn chia sẻ bài viết này trên mạng xã hội của mình.\","
+    },
+    {
+        "comment_id": 46,
+        "article_id": 18,
+        "user_id": 23,
+        "comment_date": "16/06/2023 05:10:30",
+        "comment_text": "\"Bài viết này chứa đựng nhiều thông tin quý giá.\","
+    },
+    {
+        "comment_id": 47,
+        "article_id": 16,
+        "user_id": 70,
+        "comment_date": "28/02/2022 19:21:53",
+        "comment_text": "\"Tôi cảm thấy hạnh phúc khi tìm thấy bài viết này.\","
+    },
+    {
+        "comment_id": 48,
+        "article_id": 31,
+        "user_id": 8,
+        "comment_date": "20/11/2022 17:08:44",
+        "comment_text": "\"Nội dung này giúp tôi mở mang kiến thức của mình.\","
+    },
+    {
+        "comment_id": 49,
+        "article_id": 37,
+        "user_id": 64,
+        "comment_date": "01/05/2023 23:12:46",
+        "comment_text": "\"Tôi rất ấn tượng với cách bạn trình bày nội dung.\","
+    },
+    {
+        "comment_id": 50,
+        "article_id": 25,
+        "user_id": 35,
+        "comment_date": "08/05/2023 00:44:13",
+        "comment_text": "\"Bài viết này làm cho tôi cảm thấy khá hứng thú.\","
+    },
+    {
+        "comment_id": 51,
+        "article_id": 37,
+        "user_id": 23,
+        "comment_date": "21/09/2022 04:36:16",
+        "comment_text": "\"Nội dung này giúp tôi tăng cường kiến thức của mình.\","
+    },
+    {
+        "comment_id": 52,
+        "article_id": 77,
+        "user_id": 38,
+        "comment_date": "17/01/2024 15:10:46",
+        "comment_text": "\"Tôi đã tìm thấy câu trả lời cho câu hỏi của mình trong bài viết này.\","
+    },
+    {
+        "comment_id": 53,
+        "article_id": 131,
+        "user_id": 42,
+        "comment_date": "25/06/2022 02:31:27",
+        "comment_text": "\"Nội dung này làm tôi cảm thấy như tôi đang học hỏi mỗi ngày.\","
+    },
+    {
+        "comment_id": 54,
+        "article_id": 117,
+        "user_id": 60,
+        "comment_date": "09/11/2022 11:08:04",
+        "comment_text": "\"Tôi đã đọc nhiều bài viết nhưng đây là một trong những bài viết hay nhất.\","
+    },
+    {
+        "comment_id": 55,
+        "article_id": 12,
+        "user_id": 43,
+        "comment_date": "03/12/2023 17:48:58",
+        "comment_text": "\"Nội dung này thực sự chứa đựng nhiều thông tin hữu ích.\","
+    },
+    {
+        "comment_id": 56,
+        "article_id": 136,
+        "user_id": 16,
+        "comment_date": "04/08/2023 18:23:27",
+        "comment_text": "\"Tôi sẽ thường xuyên quay lại đây để đọc các bài viết mới.\","
+    },
+    {
+        "comment_id": 57,
+        "article_id": 140,
+        "user_id": 37,
+        "comment_date": "28/01/2023 06:37:06",
+        "comment_text": "\"Bài viết này đã cung cấp cho tôi một góc nhìn mới về chủ đề.\","
+    },
+    {
+        "comment_id": 58,
+        "article_id": 118,
+        "user_id": 36,
+        "comment_date": "28/12/2022 11:12:56",
+        "comment_text": "\"Tôi rất khâm phục về kiến thức của bạn và cách bạn chia sẻ nó.\","
+    },
+    {
+        "comment_id": 59,
+        "article_id": 16,
+        "user_id": 46,
+        "comment_date": "13/02/2022 05:25:24",
+        "comment_text": "\"Bài viết này rất đáng để đọc và lưu lại cho tương lai.\""
+    },
+    {
+        "comment_id": 60,
+        "article_id": 15,
+        "user_id": 32,
+        "comment_date": "28/11/2022 03:18:43",
+        "comment_text": "\"Bài viết này có thể cải thiện hơn ở một số điểm nhất định.\","
+    },
+    {
+        "comment_id": 61,
+        "article_id": 109,
+        "user_id": 16,
+        "comment_date": "14/10/2023 06:03:30",
+        "comment_text": "\"Tôi nghĩ bạn có thể thêm nhiều chi tiết hơn vào bài viết này.\","
+    },
+    {
+        "comment_id": 62,
+        "article_id": 141,
+        "user_id": 45,
+        "comment_date": "27/02/2024 13:22:32",
+        "comment_text": "\"Mặc dù tôi thích bài viết này, nhưng có vẻ như nó còn thiếu một số thông tin quan trọng.\","
+    },
+    {
+        "comment_id": 63,
+        "article_id": 127,
+        "user_id": 23,
+        "comment_date": "28/08/2023 09:04:15",
+        "comment_text": "\"Có một số phần trong bài viết này cần được diễn giải rõ hơn.\","
+    },
+    {
+        "comment_id": 64,
+        "article_id": 56,
+        "user_id": 6,
+        "comment_date": "20/10/2022 14:14:17",
+        "comment_text": "\"Tôi mong muốn thấy thêm sự phân tích sâu sắc hơn trong bài viết này.\","
+    },
+    {
+        "comment_id": 65,
+        "article_id": 121,
+        "user_id": 51,
+        "comment_date": "09/02/2022 17:31:04",
+        "comment_text": "\"Bài viết này có thể trở nên tốt hơn nếu được cải thiện ở một số khía cạnh.\","
+    },
+    {
+        "comment_id": 66,
+        "article_id": 75,
+        "user_id": 9,
+        "comment_date": "02/10/2022 19:52:42",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này có thể được phân chia thành các phần nhỏ hơn để dễ đọc hơn.\","
+    },
+    {
+        "comment_id": 67,
+        "article_id": 113,
+        "user_id": 3,
+        "comment_date": "05/09/2023 06:14:09",
+        "comment_text": "\"Mặc dù bài viết này có nhiều thông tin hữu ích, nhưng cách diễn đạt của nó có thể được cải thiện.\","
+    },
+    {
+        "comment_id": 68,
+        "article_id": 54,
+        "user_id": 53,
+        "comment_date": "12/05/2022 09:14:16",
+        "comment_text": "\"Tôi hy vọng sẽ thấy nhiều ví dụ hơn trong bài viết này để minh họa ý kiến.\","
+    },
+    {
+        "comment_id": 69,
+        "article_id": 84,
+        "user_id": 68,
+        "comment_date": "16/01/2022 07:36:12",
+        "comment_text": "\"Bài viết này rất tốt, nhưng tôi nghĩ nó có thể được trình bày một cách rõ ràng hơn.\""
+    },
+    {
+        "comment_id": 70,
+        "article_id": 138,
+        "user_id": 52,
+        "comment_date": "01/04/2024 08:42:42",
+        "comment_text": "\"Bài viết này cần thêm một chút sắc nét và chi tiết hơn.\","
+    },
+    {
+        "comment_id": 71,
+        "article_id": 80,
+        "user_id": 7,
+        "comment_date": "25/08/2023 16:20:07",
+        "comment_text": "\"Có vẻ như bài viết này thiếu một chút sự mạch lạc.\","
+    },
+    {
+        "comment_id": 72,
+        "article_id": 21,
+        "user_id": 22,
+        "comment_date": "01/07/2022 04:15:52",
+        "comment_text": "\"Tôi mong muốn thấy thêm ví dụ cụ thể để minh họa ý kiến.\","
+    },
+    {
+        "comment_id": 73,
+        "article_id": 94,
+        "user_id": 17,
+        "comment_date": "27/10/2023 04:54:42",
+        "comment_text": "\"Cách diễn đạt của bài viết này có thể trở nên rõ ràng hơn.\","
+    },
+    {
+        "comment_id": 74,
+        "article_id": 11,
+        "user_id": 19,
+        "comment_date": "12/02/2024 03:28:33",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này cần một chút phân tích sâu sắc hơn.\","
+    },
+    {
+        "comment_id": 75,
+        "article_id": 54,
+        "user_id": 49,
+        "comment_date": "28/08/2023 14:08:56",
+        "comment_text": "\"Mặc dù bài viết này rất thú vị, nhưng tôi cảm thấy có chút thiếu sâu sắc.\","
+    },
+    {
+        "comment_id": 76,
+        "article_id": 44,
+        "user_id": 63,
+        "comment_date": "23/11/2023 02:44:23",
+        "comment_text": "\"Cần một chút thêm chi tiết và minh họa để làm cho bài viết này sống động hơn.\","
+    },
+    {
+        "comment_id": 77,
+        "article_id": 86,
+        "user_id": 3,
+        "comment_date": "03/08/2022 03:51:56",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này có thể trở nên hấp dẫn hơn nếu có nhiều ví dụ cụ thể hơn.\","
+    },
+    {
+        "comment_id": 78,
+        "article_id": 110,
+        "user_id": 39,
+        "comment_date": "01/11/2022 10:14:28",
+        "comment_text": "\"Có vẻ như bài viết này còn thiếu một chút sự độc đáo và sáng tạo.\","
+    },
+    {
+        "comment_id": 79,
+        "article_id": 9,
+        "user_id": 56,
+        "comment_date": "16/09/2022 15:08:31",
+        "comment_text": "\"Tôi mong muốn thấy nhiều phân tích hơn về các chủ đề liên quan trong bài viết này.\","
+    },
+    {
+        "comment_id": 80,
+        "article_id": 98,
+        "user_id": 57,
+        "comment_date": "20/05/2023 16:33:20",
+        "comment_text": "\"Bài viết này có thể trở nên thú vị hơn nếu tránh sự lặp lại của thông tin.\","
+    },
+    {
+        "comment_id": 81,
+        "article_id": 34,
+        "user_id": 2,
+        "comment_date": "18/02/2022 12:10:03",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này cần thêm một chút nghiên cứu và dẫn chứng hơn.\","
+    },
+    {
+        "comment_id": 82,
+        "article_id": 112,
+        "user_id": 35,
+        "comment_date": "30/12/2022 10:17:57",
+        "comment_text": "\"Cần phải chú ý đến cách bài viết này sắp xếp thông tin để tránh sự rối bời.\","
+    },
+    {
+        "comment_id": 83,
+        "article_id": 54,
+        "user_id": 8,
+        "comment_date": "22/05/2022 03:42:45",
+        "comment_text": "\"Tôi hy vọng sẽ thấy thêm sự phân tích và đánh giá trong bài viết này.\","
+    },
+    {
+        "comment_id": 84,
+        "article_id": 4,
+        "user_id": 40,
+        "comment_date": "25/07/2022 03:49:51",
+        "comment_text": "\"Cần một chút sự kỹ lưỡng hơn trong việc chọn lọc thông tin cho bài viết này.\","
+    },
+    {
+        "comment_id": 85,
+        "article_id": 83,
+        "user_id": 46,
+        "comment_date": "12/03/2024 21:29:51",
+        "comment_text": "\"Tôi mong muốn thấy thêm sự so sánh và đối chiếu giữa các quan điểm trong bài viết.\","
+    },
+    {
+        "comment_id": 86,
+        "article_id": 80,
+        "user_id": 49,
+        "comment_date": "14/09/2022 03:22:15",
+        "comment_text": "\"Bài viết này cần thêm một chút ngữ pháp và cấu trúc câu sắc nét.\","
+    },
+    {
+        "comment_id": 87,
+        "article_id": 62,
+        "user_id": 11,
+        "comment_date": "24/12/2022 00:39:39",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này có thể trở nên hấp dẫn hơn nếu tránh sự lặp lại thông tin quá nhiều.\","
+    },
+    {
+        "comment_id": 88,
+        "article_id": 50,
+        "user_id": 54,
+        "comment_date": "04/10/2022 13:02:20",
+        "comment_text": "\"Cần một chút cải thiện về cách bài viết này trình bày thông tin để làm cho nó dễ đọc hơn.\","
+    },
+    {
+        "comment_id": 89,
+        "article_id": 84,
+        "user_id": 3,
+        "comment_date": "08/01/2023 11:56:56",
+        "comment_text": "\"Tôi mong muốn thấy nhiều ví dụ cụ thể hơn để minh họa những ý kiến được đề cập trong bài viết.\","
+    },
+    {
+        "comment_id": 90,
+        "article_id": 12,
+        "user_id": 32,
+        "comment_date": "04/02/2024 14:24:04",
+        "comment_text": "\"Bài viết này có thể trở nên thú vị hơn nếu tránh sự mất cân đối giữa các phần.\","
+    },
+    {
+        "comment_id": 91,
+        "article_id": 135,
+        "user_id": 41,
+        "comment_date": "22/09/2023 23:31:56",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này có thể cần thêm một chút nghiên cứu và dẫn chứng hơn để hỗ trợ ý kiến.\","
+    },
+    {
+        "comment_id": 92,
+        "article_id": 56,
+        "user_id": 24,
+        "comment_date": "16/05/2022 04:02:17",
+        "comment_text": "\"Cần phải chú ý đến cách bài viết này sắp xếp thông tin để tránh sự lạc hậu và không rõ ràng.\","
+    },
+    {
+        "comment_id": 93,
+        "article_id": 139,
+        "user_id": 67,
+        "comment_date": "05/12/2022 04:35:29",
+        "comment_text": "\"Tôi hy vọng sẽ thấy thêm sự phân tích sâu sắc và suy luận logic trong bài viết này.\","
+    },
+    {
+        "comment_id": 94,
+        "article_id": 69,
+        "user_id": 17,
+        "comment_date": "09/06/2022 07:02:10",
+        "comment_text": "\"Bài viết này có thể trở nên thú vị hơn nếu sử dụng ngôn từ phong phú và đa dạng hơn.\","
+    },
+    {
+        "comment_id": 95,
+        "article_id": 107,
+        "user_id": 4,
+        "comment_date": "07/11/2023 18:10:43",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này cần thêm một chút sự minh bạch và logic trong cách diễn đạt ý kiến.\","
+    },
+    {
+        "comment_id": 96,
+        "article_id": 77,
+        "user_id": 18,
+        "comment_date": "19/07/2022 05:43:50",
+        "comment_text": "\"Cần một chút cải thiện về cách bài viết này trình bày ý tưởng để làm cho nó dễ hiểu hơn.\","
+    },
+    {
+        "comment_id": 97,
+        "article_id": 135,
+        "user_id": 51,
+        "comment_date": "14/10/2023 07:15:40",
+        "comment_text": "\"Tôi mong muốn thấy nhiều so sánh và đối chiếu hơn giữa các quan điểm trong bài viết.\","
+    },
+    {
+        "comment_id": 98,
+        "article_id": 143,
+        "user_id": 48,
+        "comment_date": "06/04/2024 00:48:18",
+        "comment_text": "\"Bài viết này có thể trở nên thú vị hơn nếu có nhiều ví dụ thực tế và ứng dụng hơn.\","
+    },
+    {
+        "comment_id": 99,
+        "article_id": 62,
+        "user_id": 60,
+        "comment_date": "23/09/2022 23:24:41",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này có thể cần thêm một chút sự phân tích sâu sắc và suy luận logic để làm cho nó hấp dẫn hơn.\","
+    },
+    {
+        "comment_id": 100,
+        "article_id": 19,
+        "user_id": 65,
+        "comment_date": "20/11/2022 22:39:21",
+        "comment_text": "\"Cần phải chú ý đến cách bài viết này sắp xếp thông tin để tránh sự lặp lại và mất cân đối.\","
+    },
+    {
+        "comment_id": 101,
+        "article_id": 86,
+        "user_id": 49,
+        "comment_date": "07/03/2022 06:54:52",
+        "comment_text": "\"Tôi hy vọng sẽ thấy thêm sự minh bạch và logic trong cách bài viết này trình bày ý kiến.\","
+    },
+    {
+        "comment_id": 102,
+        "article_id": 144,
+        "user_id": 23,
+        "comment_date": "19/05/2022 12:13:36",
+        "comment_text": "\"Bài viết này có thể trở nên thú vị hơn nếu sử dụng ngôn từ phong phú và hấp dẫn hơn.\","
+    },
+    {
+        "comment_id": 103,
+        "article_id": 62,
+        "user_id": 48,
+        "comment_date": "16/04/2022 09:41:52",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này có thể cần thêm một chút minh bạch và logic trong cách diễn đạt ý kiến.\","
+    },
+    {
+        "comment_id": 104,
+        "article_id": 97,
+        "user_id": 8,
+        "comment_date": "14/03/2024 05:27:07",
+        "comment_text": "\"Cần một chút cải thiện về cách bài viết này trình bày thông tin để làm cho nó dễ đọc và hiểu hơn.\","
+    },
+    {
+        "comment_id": 105,
+        "article_id": 47,
+        "user_id": 68,
+        "comment_date": "18/12/2023 09:08:43",
+        "comment_text": "\"Tôi mong muốn thấy nhiều so sánh và đối chiếu hơn giữa các quan điểm khác nhau trong bài viết.\","
+    },
+    {
+        "comment_id": 106,
+        "article_id": 84,
+        "user_id": 67,
+        "comment_date": "17/10/2023 00:20:29",
+        "comment_text": "\"Bài viết này có thể trở nên thú vị hơn nếu có nhiều ví dụ và ứng dụng thực tế hơn.\","
+    },
+    {
+        "comment_id": 107,
+        "article_id": 18,
+        "user_id": 36,
+        "comment_date": "14/04/2023 20:44:00",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này có thể cần thêm một chút phân tích sâu sắc và suy luận logic để làm cho nó hấp dẫn và thuyết phục hơn.\","
+    },
+    {
+        "comment_id": 108,
+        "article_id": 23,
+        "user_id": 40,
+        "comment_date": "17/01/2022 06:16:25",
+        "comment_text": "\"Cần phải chú ý đến cách bài viết này sắp xếp thông tin để tránh sự lẫn lộn và không rõ ràng.\","
+    },
+    {
+        "comment_id": 109,
+        "article_id": 5,
+        "user_id": 38,
+        "comment_date": "05/01/2024 16:22:13",
+        "comment_text": "\"Tôi hy vọng sẽ thấy thêm sự minh bạch và logic trong cách bài viết này diễn đạt ý kiến và ý tưởng.\","
+    },
+    {
+        "comment_id": 110,
+        "article_id": 4,
+        "user_id": 45,
+        "comment_date": "27/08/2023 18:14:01",
+        "comment_text": "\"Bài viết này có thể trở nên thú vị hơn nếu sử dụng ngôn từ phong phú và hấp dẫn hơn để thu hút người đọc.\","
+    },
+    {
+        "comment_id": 111,
+        "article_id": 61,
+        "user_id": 40,
+        "comment_date": "30/10/2023 18:12:42",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này có thể cần thêm một chút minh bạch và logic trong cách diễn đạt ý kiến và ý tưởng.\","
+    },
+    {
+        "comment_id": 112,
+        "article_id": 135,
+        "user_id": 48,
+        "comment_date": "03/07/2023 12:19:10",
+        "comment_text": "\"Cần một chút cải thiện về cách bài viết này trình bày thông tin để làm cho nó dễ hiểu và tiếp thu hơn.\","
+    },
+    {
+        "comment_id": 113,
+        "article_id": 40,
+        "user_id": 19,
+        "comment_date": "03/02/2022 09:10:15",
+        "comment_text": "\"Tôi mong muốn thấy nhiều so sánh và đối chiếu hơn giữa các quan điểm khác nhau để làm cho bài viết này cân nhắc và phản biện hơn.\","
+    },
+    {
+        "comment_id": 114,
+        "article_id": 2,
+        "user_id": 29,
+        "comment_date": "27/01/2023 13:07:02",
+        "comment_text": "\"Bài viết này có thể trở nên thú vị hơn nếu có nhiều ví dụ và ứng dụng thực tiễn hơn để minh họa ý kiến và ý tưởng.\","
+    },
+    {
+        "comment_id": 115,
+        "article_id": 65,
+        "user_id": 65,
+        "comment_date": "15/02/2023 13:31:37",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này có thể cần thêm một chút phân tích sâu sắc và suy luận logic để làm cho nó hấp dẫn và thuyết phục hơn.\","
+    },
+    {
+        "comment_id": 116,
+        "article_id": 108,
+        "user_id": 26,
+        "comment_date": "06/02/2023 03:03:03",
+        "comment_text": "\"Cần phải chú ý đến cách bài viết này sắp xếp thông tin để tránh sự lẫn lộn và mất cân đối.\","
+    },
+    {
+        "comment_id": 117,
+        "article_id": 20,
+        "user_id": 5,
+        "comment_date": "11/05/2022 13:26:54",
+        "comment_text": "\"Tôi hy vọng sẽ thấy thêm sự minh bạch và logic trong cách bài viết này diễn đạt ý kiến và ý tưởng.\","
+    },
+    {
+        "comment_id": 118,
+        "article_id": 136,
+        "user_id": 27,
+        "comment_date": "17/05/2023 19:44:43",
+        "comment_text": "\"Bài viết này có thể trở nên thú vị hơn nếu sử dụng ngôn từ phong phú và hấp dẫn hơn để thu hút người đọc.\","
+    },
+    {
+        "comment_id": 119,
+        "article_id": 24,
+        "user_id": 32,
+        "comment_date": "04/12/2022 14:19:10",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này có thể cần thêm một chút minh bạch và logic trong cách diễn đạt ý kiến và ý tưởng.\","
+    },
+    {
+        "comment_id": 120,
+        "article_id": 138,
+        "user_id": 48,
+        "comment_date": "31/03/2024 15:09:56",
+        "comment_text": "\"Cần một chút cải thiện về cách bài viết này trình bày thông tin để làm cho nó dễ hiểu và tiếp thu hơn.\","
+    },
+    {
+        "comment_id": 121,
+        "article_id": 8,
+        "user_id": 52,
+        "comment_date": "23/05/2023 17:01:57",
+        "comment_text": "\"Tôi mong muốn thấy nhiều so sánh và đối chiếu hơn giữa các quan điểm khác nhau để làm cho bài viết này cân nhắc và phản biện hơn.\","
+    },
+    {
+        "comment_id": 122,
+        "article_id": 65,
+        "user_id": 22,
+        "comment_date": "24/08/2022 16:00:58",
+        "comment_text": "\"Bài viết này có thể trở nên thú vị hơn nếu có nhiều ví dụ và ứng dụng thực tiễn hơn để minh họa ý kiến và ý tưởng.\","
+    },
+    {
+        "comment_id": 123,
+        "article_id": 49,
+        "user_id": 44,
+        "comment_date": "26/01/2023 16:44:26",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này có thể cần thêm một chút phân tích sâu sắc và suy luận logic để làm cho nó hấp dẫn và thuyết phục hơn.\","
+    },
+    {
+        "comment_id": 124,
+        "article_id": 71,
+        "user_id": 57,
+        "comment_date": "30/10/2022 15:07:48",
+        "comment_text": "\"Cần phải chú ý đến cách bài viết này sắp xếp thông tin để tránh sự lẫn lộn và mất cân đối.\","
+    },
+    {
+        "comment_id": 125,
+        "article_id": 63,
+        "user_id": 54,
+        "comment_date": "07/09/2023 00:02:51",
+        "comment_text": "\"Tôi hy vọng sẽ thấy thêm sự minh bạch và logic trong cách bài viết này diễn đạt ý kiến và ý tưởng.\","
+    },
+    {
+        "comment_id": 126,
+        "article_id": 47,
+        "user_id": 60,
+        "comment_date": "29/12/2023 16:47:41",
+        "comment_text": "\"Bài viết này có thể trở nên thú vị hơn nếu sử dụng ngôn từ phong phú và hấp dẫn hơn để thu hút người đọc.\","
+    },
+    {
+        "comment_id": 127,
+        "article_id": 62,
+        "user_id": 41,
+        "comment_date": "01/12/2023 21:28:12",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này có thể cần thêm một chút minh bạch và logic trong cách diễn đạt ý kiến và ý tưởng.\","
+    },
+    {
+        "comment_id": 128,
+        "article_id": 62,
+        "user_id": 4,
+        "comment_date": "27/05/2023 05:13:09",
+        "comment_text": "\"Cần một chút cải thiện về cách bài viết này trình bày thông tin để làm cho nó dễ hiểu và tiếp thu hơn.\","
+    },
+    {
+        "comment_id": 129,
+        "article_id": 48,
+        "user_id": 51,
+        "comment_date": "01/11/2022 08:52:55",
+        "comment_text": "\"Tôi mong muốn thấy nhiều so sánh và đối chiếu hơn giữa các quan điểm khác nhau để làm cho bài viết này cân nhắc và phản biện hơn.\","
+    },
+    {
+        "comment_id": 130,
+        "article_id": 50,
+        "user_id": 45,
+        "comment_date": "03/02/2023 23:13:42",
+        "comment_text": "\"Bài viết này có thể trở nên thú vị hơn nếu có nhiều ví dụ và ứng dụng thực tiễn hơn để minh họa ý kiến và ý tưởng.\","
+    },
+    {
+        "comment_id": 131,
+        "article_id": 4,
+        "user_id": 45,
+        "comment_date": "18/03/2024 10:54:12",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này có thể cần thêm một chút phân tích sâu sắc và suy luận logic để làm cho nó hấp dẫn và thuyết phục hơn.\","
+    },
+    {
+        "comment_id": 132,
+        "article_id": 75,
+        "user_id": 1,
+        "comment_date": "17/12/2023 17:38:39",
+        "comment_text": "\"Cần phải chú ý đến cách bài viết này sắp xếp thông tin để tránh sự lẫn lộn và mất cân đối.\","
+    },
+    {
+        "comment_id": 133,
+        "article_id": 129,
+        "user_id": 28,
+        "comment_date": "19/12/2023 03:27:53",
+        "comment_text": "\"Tôi hy vọng sẽ thấy thêm sự minh bạch và logic trong cách bài viết này diễn đạt ý kiến và ý tưởng.\","
+    },
+    {
+        "comment_id": 134,
+        "article_id": 52,
+        "user_id": 53,
+        "comment_date": "26/12/2023 10:15:22",
+        "comment_text": "\"Bài viết này có thể trở nên thú vị hơn nếu sử dụng ngôn từ phong phú và hấp dẫn hơn để thu hút người đọc.\","
+    },
+    {
+        "comment_id": 135,
+        "article_id": 107,
+        "user_id": 61,
+        "comment_date": "11/10/2023 22:30:06",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này có thể cần thêm một chút minh bạch và logic trong cách diễn đạt ý kiến và ý tưởng.\","
+    },
+    {
+        "comment_id": 136,
+        "article_id": 119,
+        "user_id": 11,
+        "comment_date": "09/01/2023 06:03:00",
+        "comment_text": "\"Cần một chút cải thiện về cách bài viết này trình bày thông tin để làm cho nó dễ hiểu và tiếp thu hơn.\","
+    },
+    {
+        "comment_id": 137,
+        "article_id": 74,
+        "user_id": 9,
+        "comment_date": "24/06/2022 05:11:08",
+        "comment_text": "\"Tôi mong muốn thấy nhiều so sánh và đối chiếu hơn giữa các quan điểm khác nhau để làm cho bài viết này cân nhắc và phản biện hơn.\","
+    },
+    {
+        "comment_id": 138,
+        "article_id": 64,
+        "user_id": 61,
+        "comment_date": "12/04/2022 14:20:17",
+        "comment_text": "\"Bài viết này có thể trở nên thú vị hơn nếu có nhiều ví dụ và ứng dụng thực tiễn hơn để minh họa ý kiến và ý tưởng.\","
+    },
+    {
+        "comment_id": 139,
+        "article_id": 76,
+        "user_id": 8,
+        "comment_date": "04/08/2023 16:19:24",
+        "comment_text": "\"Tôi nghĩ rằng bài viết này có thể cần thêm một chút phân tích sâu sắc và suy luận logic để làm cho nó hấp dẫn và thuyết phục hơn.\""
+    },
+    {
+        "comment_id": 140,
+        "article_id": 101,
+        "user_id": 1,
+        "comment_date": "03/04/2022 23:15:27",
+        "comment_text": "\"Bạn đã làm việc tuyệt vời!\","
+    },
+    {
+        "comment_id": 141,
+        "article_id": 58,
+        "user_id": 23,
+        "comment_date": "09/10/2023 00:56:45",
+        "comment_text": "\"Tôi tin rằng bạn có thể làm được điều này!\","
+    },
+    {
+        "comment_id": 142,
+        "article_id": 90,
+        "user_id": 24,
+        "comment_date": "21/08/2022 05:30:22",
+        "comment_text": "\"Bạn làm việc rất chăm chỉ và đáng khen ngợi!\","
+    },
+    {
+        "comment_id": 143,
+        "article_id": 110,
+        "user_id": 18,
+        "comment_date": "08/07/2022 00:55:01",
+        "comment_text": "\"Bạn làm việc tốt lắm!\","
+    },
+    {
+        "comment_id": 144,
+        "article_id": 95,
+        "user_id": 56,
+        "comment_date": "11/11/2022 04:00:45",
+        "comment_text": "\"Bạn đã làm rất tốt!\","
+    },
+    {
+        "comment_id": 145,
+        "article_id": 94,
+        "user_id": 34,
+        "comment_date": "14/02/2024 02:01:36",
+        "comment_text": "\"Tôi rất ngưỡng mộ nỗ lực của bạn!\","
+    },
+    {
+        "comment_id": 146,
+        "article_id": 6,
+        "user_id": 34,
+        "comment_date": "07/02/2024 23:34:04",
+        "comment_text": "\"Bạn đang tiến bộ rất tốt!\","
+    },
+    {
+        "comment_id": 147,
+        "article_id": 61,
+        "user_id": 52,
+        "comment_date": "19/04/2023 21:07:23",
+        "comment_text": "\"Bạn đã hoàn thành nhiệm vụ của mình một cách xuất sắc!\","
+    },
+    {
+        "comment_id": 148,
+        "article_id": 119,
+        "user_id": 51,
+        "comment_date": "30/07/2022 22:01:10",
+        "comment_text": "\"Tôi tin chắc rằng bạn có thể thành công!\","
+    },
+    {
+        "comment_id": 149,
+        "article_id": 82,
+        "user_id": 31,
+        "comment_date": "02/03/2022 05:09:51",
+        "comment_text": "\"Bạn đã thể hiện sự kiên nhẫn và quyết tâm!\","
+    },
+    {
+        "comment_id": 150,
+        "article_id": 117,
+        "user_id": 22,
+        "comment_date": "25/11/2022 05:45:09",
+        "comment_text": "\"Bạn đang làm rất tốt trong việc này!\","
+    },
+    {
+        "comment_id": 151,
+        "article_id": 41,
+        "user_id": 19,
+        "comment_date": "28/12/2023 11:49:50",
+        "comment_text": "\"Tôi tin chắc rằng bạn sẽ vượt qua mọi khó khăn!\","
+    },
+    {
+        "comment_id": 152,
+        "article_id": 21,
+        "user_id": 32,
+        "comment_date": "19/07/2022 07:00:56",
+        "comment_text": "\"Bạn đã làm một công việc tuyệt vời!\","
+    },
+    {
+        "comment_id": 153,
+        "article_id": 124,
+        "user_id": 22,
+        "comment_date": "17/06/2023 03:46:55",
+        "comment_text": "\"Tôi rất hạnh phúc khi thấy bạn tiến bộ như vậy!\","
+    },
+    {
+        "comment_id": 154,
+        "article_id": 148,
+        "user_id": 60,
+        "comment_date": "03/05/2022 10:19:27",
+        "comment_text": "\"Bạn làm việc cực kỳ chăm chỉ!\","
+    },
+    {
+        "comment_id": 155,
+        "article_id": 24,
+        "user_id": 36,
+        "comment_date": "16/11/2023 04:55:29",
+        "comment_text": "\"Tôi rất tự hào về bạn!\","
+    },
+    {
+        "comment_id": 156,
+        "article_id": 65,
+        "user_id": 27,
+        "comment_date": "27/04/2023 16:48:30",
+        "comment_text": "\"Bạn đã làm một việc tuyệt vời trong công việc của mình!\","
+    },
+    {
+        "comment_id": 157,
+        "article_id": 91,
+        "user_id": 57,
+        "comment_date": "04/10/2023 20:09:57",
+        "comment_text": "\"Tôi tin chắc rằng bạn có thể đạt được mục tiêu của mình!\","
+    },
+    {
+        "comment_id": 158,
+        "article_id": 72,
+        "user_id": 28,
+        "comment_date": "19/01/2024 08:19:23",
+        "comment_text": "\"Bạn đã làm rất tốt trong việc này!\","
+    },
+    {
+        "comment_id": 159,
+        "article_id": 4,
+        "user_id": 66,
+        "comment_date": "11/05/2023 01:11:21",
+        "comment_text": "\"Tôi biết bạn có thể làm được điều này!\","
+    },
+    {
+        "comment_id": 160,
+        "article_id": 53,
+        "user_id": 51,
+        "comment_date": "03/03/2024 15:52:40",
+        "comment_text": "\"Bạn làm việc rất tốt và rất chăm chỉ!\","
+    },
+    {
+        "comment_id": 161,
+        "article_id": 65,
+        "user_id": 60,
+        "comment_date": "08/12/2022 22:38:10",
+        "comment_text": "\"Tôi mong muốn thấy nhiều thành công hơn từ bạn!\","
+    },
+    {
+        "comment_id": 162,
+        "article_id": 61,
+        "user_id": 63,
+        "comment_date": "23/09/2022 17:22:49",
+        "comment_text": "\"Bạn đã thể hiện sự quyết tâm và kiên nhẫn!\","
+    },
+    {
+        "comment_id": 163,
+        "article_id": 44,
+        "user_id": 39,
+        "comment_date": "09/08/2022 05:44:47",
+        "comment_text": "\"Tôi rất khích lệ bởi sự nỗ lực của bạn!\","
+    },
+    {
+        "comment_id": 164,
+        "article_id": 11,
+        "user_id": 59,
+        "comment_date": "08/08/2023 09:12:19",
+        "comment_text": "\"Bạn đã làm một công việc tuyệt vời!\","
+    },
+    {
+        "comment_id": 165,
+        "article_id": 129,
+        "user_id": 51,
+        "comment_date": "14/02/2023 17:57:46",
+        "comment_text": "\"Tôi tin chắc rằng bạn sẽ đạt được mục tiêu của mình!\","
+    },
+    {
+        "comment_id": 166,
+        "article_id": 10,
+        "user_id": 63,
+        "comment_date": "17/10/2022 07:51:45",
+        "comment_text": "\"Bạn đã thể hiện sự quyết tâm và kiên nhẫn!\","
+    },
+    {
+        "comment_id": 167,
+        "article_id": 3,
+        "user_id": 58,
+        "comment_date": "09/09/2022 04:22:01",
+        "comment_text": "\"Tôi rất tự hào về bạn!\","
+    },
+    {
+        "comment_id": 168,
+        "article_id": 136,
+        "user_id": 59,
+        "comment_date": "10/01/2024 15:59:00",
+        "comment_text": "\"Bạn đã làm một công việc xuất sắc!\","
+    },
+    {
+        "comment_id": 169,
+        "article_id": 39,
+        "user_id": 14,
+        "comment_date": "24/01/2022 12:04:42",
+        "comment_text": "\"Tôi mong muốn thấy nhiều thành công hơn từ bạn!\","
+    },
+    {
+        "comment_id": 170,
+        "article_id": 136,
+        "user_id": 15,
+        "comment_date": "03/10/2022 02:50:54",
+        "comment_text": "\"Bạn đã làm việc rất tốt!\","
+    },
+    {
+        "comment_id": 171,
+        "article_id": 56,
+        "user_id": 4,
+        "comment_date": "30/08/2023 18:11:44",
+        "comment_text": "\"Tôi tin chắc rằng bạn sẽ đạt được mục tiêu của mình!\","
+    },
+    {
+        "comment_id": 172,
+        "article_id": 135,
+        "user_id": 9,
+        "comment_date": "07/04/2022 02:40:59",
+        "comment_text": "\"Bạn đã thể hiện sự kiên nhẫn và quyết tâm!\","
+    },
+    {
+        "comment_id": 173,
+        "article_id": 144,
+        "user_id": 17,
+        "comment_date": "17/09/2023 23:58:41",
+        "comment_text": "\"Tôi rất hạnh phúc khi thấy bạn tiến bộ như vậy!\","
+    },
+    {
+        "comment_id": 174,
+        "article_id": 82,
+        "user_id": 44,
+        "comment_date": "31/12/2023 11:23:31",
+        "comment_text": "\"Bạn đã làm một công việc xuất sắc!\","
+    },
+    {
+        "comment_id": 175,
+        "article_id": 59,
+        "user_id": 61,
+        "comment_date": "28/10/2023 13:48:52",
+        "comment_text": "\"Tôi rất tự hào về bạn!\","
+    },
+    {
+        "comment_id": 176,
+        "article_id": 121,
+        "user_id": 52,
+        "comment_date": "07/08/2022 10:14:55",
+        "comment_text": "\"Bạn làm việc cực kỳ chăm chỉ!\","
+    },
+    {
+        "comment_id": 177,
+        "article_id": 52,
+        "user_id": 57,
+        "comment_date": "05/02/2022 20:32:51",
+        "comment_text": "\"Tôi rất khích lệ bởi sự nỗ lực của bạn!\","
+    },
+    {
+        "comment_id": 178,
+        "article_id": 74,
+        "user_id": 65,
+        "comment_date": "16/10/2023 07:06:18",
+        "comment_text": "\"Bạn đã làm rất tốt!\","
+    },
+    {
+        "comment_id": 179,
+        "article_id": 128,
+        "user_id": 31,
+        "comment_date": "08/12/2022 05:06:52",
+        "comment_text": "\"Tôi tin chắc rằng bạn có thể thành công!\","
+    },
+    {
+        "comment_id": 180,
+        "article_id": 20,
+        "user_id": 59,
+        "comment_date": "23/12/2022 19:12:01",
+        "comment_text": "\"Bạn làm việc tuyệt vời!\","
+    },
+    {
+        "comment_id": 181,
+        "article_id": 81,
+        "user_id": 21,
+        "comment_date": "06/04/2022 11:33:18",
+        "comment_text": "\"Tôi biết bạn có thể làm được điều này!\","
+    },
+    {
+        "comment_id": 182,
+        "article_id": 114,
+        "user_id": 58,
+        "comment_date": "25/01/2024 14:14:04",
+        "comment_text": "\"Bạn đã làm rất tốt trong việc này!\","
+    },
+    {
+        "comment_id": 183,
+        "article_id": 17,
+        "user_id": 70,
+        "comment_date": "05/01/2024 14:58:07",
+        "comment_text": "\"Tôi tin chắc rằng bạn có thể đạt được mục tiêu của mình!\","
+    },
+    {
+        "comment_id": 184,
+        "article_id": 24,
+        "user_id": 58,
+        "comment_date": "08/12/2023 15:19:22",
+        "comment_text": "\"Bạn đã thể hiện sự kiên nhẫn và quyết tâm!\","
+    },
+    {
+        "comment_id": 185,
+        "article_id": 148,
+        "user_id": 12,
+        "comment_date": "18/02/2023 04:17:10",
+        "comment_text": "\"Tôi rất hạnh phúc khi thấy bạn tiến bộ như vậy!\","
+    },
+    {
+        "comment_id": 186,
+        "article_id": 94,
+        "user_id": 48,
+        "comment_date": "30/08/2022 01:04:28",
+        "comment_text": "\"Bạn đã làm một công việc xuất sắc!\","
+    },
+    {
+        "comment_id": 187,
+        "article_id": 147,
+        "user_id": 5,
+        "comment_date": "23/02/2023 01:45:20",
+        "comment_text": "\"Tôi rất tự hào về bạn!\","
+    },
+    {
+        "comment_id": 188,
+        "article_id": 138,
+        "user_id": 31,
+        "comment_date": "13/07/2023 22:35:32",
+        "comment_text": "\"Bạn làm việc cực kỳ chăm chỉ!\","
+    },
+    {
+        "comment_id": 189,
+        "article_id": 72,
+        "user_id": 65,
+        "comment_date": "26/10/2022 19:03:33",
+        "comment_text": "\"Tôi mong muốn thấy nhiều thành công hơn từ bạn!\","
+    },
+    {
+        "comment_id": 190,
+        "article_id": 67,
+        "user_id": 58,
+        "comment_date": "24/01/2023 09:28:07",
+        "comment_text": "\"Bạn đã làm một công việc tuyệt vời!\","
+    },
+    {
+        "comment_id": 191,
+        "article_id": 85,
+        "user_id": 32,
+        "comment_date": "20/08/2022 12:17:27",
+        "comment_text": "\"Tôi tin chắc rằng bạn có thể đạt được mục tiêu của mình!\","
+    },
+    {
+        "comment_id": 192,
+        "article_id": 55,
+        "user_id": 45,
+        "comment_date": "20/01/2024 12:38:12",
+        "comment_text": "\"Bạn đã thể hiện sự kiên nhẫn và quyết tâm!\","
+    },
+    {
+        "comment_id": 193,
+        "article_id": 75,
+        "user_id": 61,
+        "comment_date": "02/01/2023 19:59:52",
+        "comment_text": "\"Tôi rất hạnh phúc khi thấy bạn tiến bộ như vậy!\""
+    }
+]
